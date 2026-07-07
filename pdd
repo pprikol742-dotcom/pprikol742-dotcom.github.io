@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ПДД Тренажёр</title>
+</head>
+<body>
+    <h1>ПДД Тренажёр</h1>
+    <p>Приложение для подготовки к экзаменам по ПДД. 1600 вопросов, экзаменационный режим, тёмная тема.</p>
+    <p>Разработчик: [Ваше имя или ник]</p>
+    <p>Email: [ваш email для связи]</p>
+    <p><a href="https://github.com/pprikol742-dotcom/pdd-trainer-app">Исходный код на GitHub</a></p>
+    <h2>Политика конфиденциальности</h2>
+    <p>Приложение не собирает и не передаёт персональные данные.</p>
+</body>
+</html>
